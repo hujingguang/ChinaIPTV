@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="news.hunan" tvg-logo="" group-title="",新闻频道
+http://222.240.82.92:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="" group-title="",湖南电视剧
+http://222.240.82.92:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="eco.hunan" tvg-logo="" group-title="",湖南经视
+http://222.240.82.92:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="city.hunan" tvg-logo="" group-title="",湖南都市
+http://222.240.82.92:9901/tsfile/live/1001_1.m3u8
