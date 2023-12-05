@@ -1,9 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="news.hunan" tvg-logo="" group-title="",新闻频道
 http://222.240.82.92:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="" group-title="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png",湖南电视剧
+#EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南台",湖南电视剧
 http://222.240.82.92:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="eco.hunan" tvg-logo="" group-title="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png",湖南经视
+#EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南台",湖南经视
 http://222.240.82.92:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="city.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="",湖南都市
+#EXTINF:-1 tvg-id="city.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
 http://222.240.82.92:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="湖南台" tvg-id="湖南卫视" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123901871.jpg",湖南卫视
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+#EXTINF:-1 group-title="湖南台" tvg-id="湘潭公共都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0928/130c1fe3c0165a7cad1f0bf2a12229cd.jpg",湘潭公共都市频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南台" tvg-id="湘潭新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0928/130c1fe3c0165a7cad1f0bf2a12229cd.jpg",湘潭新闻综合频道
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="http://tv.haoqu99.com/d/file/2014/0603/20140603063711188.jpg",金鹰卡通
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
