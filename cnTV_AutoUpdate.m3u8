@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="湖南台" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWYyNjQ1NGQ4N2FlOThhMzBiN2ZmY2MyOWJlZWM0YTg5JmVzPTE3MDQ0MTE2OTEmdXVpZD1iNDRmMjk3NGIzYWNlNmViOWQ2NzA5YjZiZTEwNDEzYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
 http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWZlMTljZGUyMGUxNjhjYjlmNGM4NGRhN2E5NDE2MDFjJmVzPTE3MDQ0MDY5OTQmdXVpZD1hZTI3NTdkN2NiZjhlNTVmZWYwZDJiMTcwOWU2NGZkMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
 http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTZkMzhkMmMyNTRmNzRkZTdjYmY3NDIzMGFkNGJmM2FlJmVzPTE3MDQ0MTI0MzQmdXVpZD1mNDc2NzQ1MDM4MzY5YWVmNzAyZWRhNDEzNjFkMGZiZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南台",湖南经视
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWJkMTFhMjIwMzNiMDlkZjMxM2NhODQ5NTM5NGI5ZDBmJmVzPTE3MDQzODk0MjYmdXVpZD02NzNmMjMyOWI1YmNiNzY2ZjAzNzdjZjY2MGI1Y2EwZi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWVkMGI1NTAyNGE3ZThlZDg3ZDU0ZjljOGQ0NmJmOWIwJmVzPTE3MDQ0MTgyNDQmdXVpZD1lY2RkNTY5MzQ2YzQ4NzkzNWU5NTY5ODUyZGVkNjBiMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWU1OTdlMzNjZjU5NDE1NWE2NzVjODhiYmMwYTRkMzUzJmVzPTE3MDQzOTM1NDImdXVpZD03YmY3MTBlMTI0MzA0MWZjY2NiMTM3YzAzNDViZjAyYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYKTMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
@@ -102,11 +104,11 @@ http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/1000/prog_index.m3
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
-http://27.36.62.162:9090/live/fhzw_1500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg==&u=freeuser&p=1&pid=&cid=860&d=004bfc8f56cd2797&sid=bHv/nEfsgj8PcvHCGpQeig==&r=20240105001020&e=20240105041025&nc=DGeTIP21sQ3S&a=7&v=2&isSuma=1&hlsSessionID=15751341401023572506&srchost=172.16.149.181:8060&gid=R2EMZN9Qmr4l7Z6QbMebqg%3D%3D
+http://27.36.62.162:9090/live/fhzw_1500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg==&u=freeuser&p=1&pid=&cid=860&d=004bfc8f56cd2797&sid=+VB2N5NMX/AmOxAKe1jbhg==&r=20240105011050&e=20240105051055&nc=erNjcfca2vaW&a=7&v=2&isSuma=1&hlsSessionID=10701117368881049070&srchost=172.16.149.181:8060&gid=VTP4FVY1nVR0wwGM3Andfg%3D%3D
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
-http://183.238.66.1:9090/live/fhzw_1500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg==&u=freeuser&p=1&pid=&cid=860&d=004bfc8f56cd2797&sid=bHv/nEfsgj8PcvHCGpQeig==&r=20240105001020&e=20240105041025&nc=DGeTIP21sQ3S&a=7&v=2&isSuma=1&hlsSessionID=10701117368881046248&srchost=172.16.149.181:8060&gid=2Lc9xV3byRh%2BhBFeejn7bg%3D%3D
+http://183.238.66.1:9090/live/fhzw_1500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg==&u=freeuser&p=1&pid=&cid=860&d=004bfc8f56cd2797&sid=+VB2N5NMX/AmOxAKe1jbhg==&r=20240105011050&e=20240105051055&nc=erNjcfca2vaW&a=7&v=2&isSuma=1&hlsSessionID=15751341401023575472&srchost=172.16.149.181:8060&gid=f1dPhl3%2BtDo%2F12WY%2Bg84bA%3D%3D
 #EXTINF:-1 group-title="卫视台" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=c80970049b05ae1cdccc39b8795033ef&volcTime=1704474120
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a0dc2b53556598bccc7cbf93aa6dac08&volcTime=1704475920
 #EXTINF:-1 group-title="卫视台" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
@@ -124,13 +126,15 @@ http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a3016386eecb124b9e257ce02131b34b&wsTime=1704396017&wsSession=503b1e1e0d89cb0523470272-170438775738559&wsIPSercert=77379b3d4d50245a58ff6230e292842b&wsiphost=local&wsBindIP=1
+http://59.37.82.157/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a3016386eecb124b9e257ce02131b34b&wsTime=1704396017&wsSession=18194615a5be6544e8a0d51f-170438955827658&wsIPSercert=768549617457cbabe0d8f4b185e3d359&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="卫视台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+https://sztv-live.cutv.com/AxeFRth/500/017hx4F.m3u8?sign=ce86919aa3de3476d2ae6950438fcb78&t=d2548eba
 #EXTINF:-1 group-title="卫视台" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
-http://live1.fjtv.net/dnpd/hd/live.m3u8?_upt=7ab2e5d81704397763
+http://live1.fjtv.net/dnpd/hd/live.m3u8?_upt=c21ba9df1704399569
 #EXTINF:-1 group-title="卫视台" tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
 http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226695/1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png",海峡卫视
-http://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=e26b9cfa1704397770
+http://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=c02324ef1704399570
 #EXTINF:-1 group-title="卫视台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
 http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
@@ -140,9 +144,9 @@ http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827
 #EXTINF:-1 group-title="卫视台" tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-http://stream3.hnntv.cn/hnws/playlist.m3u8?_upt=76d507fd1704391374
+http://stream3.hnntv.cn/hnws/sd/live.m3u8?_upt=4e010aff1703864945
 #EXTINF:-1 group-title="卫视台" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=5a830978fc0c01300c78d4ce9842d4db&txTime=6596E407
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=426a7c340d653fd8384f38c57ccbcf01&txTime=6596EB21
 #EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a9f3cd5e1704393683
 #EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
