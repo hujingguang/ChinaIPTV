@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://www.nettvpro.xyz/mplayer.html?url=https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1724263297-0-pcsff37a7fe75924ed4a94731d39406cb07-9de6808a1cf9958d9b5d32fc1939f3cf&yid=pcsff37a7fe75924ed4a94731d39406cb07
+https://www.nettvpro.xyz/mplayer.html?url=https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1724264197-0-pcs8672e9ce475b4b3fa3bdf7dba520997b-f2e589dd8c87fcd9afff982c535566c8&yid=pcs8672e9ce475b4b3fa3bdf7dba520997b
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 高清
 https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
@@ -114,7 +114,7 @@ http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 4K
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/1/a48k_zho/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
