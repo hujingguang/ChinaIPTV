@@ -99,8 +99,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 高清
 https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育赛事
-https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
@@ -120,7 +118,7 @@ http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1726097789-78edcd05be003ad7eed65ffee05affe1-0-d72a83e9d06ec02674286ca1982e96ef
+https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1726101404-adc98951b46fa478b57fc9eb48fe1606-0-a650dad051e761afea8c6f03a61008a0
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
@@ -172,7 +170,7 @@ http://117.161.12.124/live/program/live/sxws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/neimengkuSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ningxia/__op/default/__f/1/v1M/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
