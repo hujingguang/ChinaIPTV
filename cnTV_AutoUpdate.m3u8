@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPWIwYjAzYWM2ZjZkYjE2ZWU1OTZjMjQ2NzhhYjlhMGI1JmVzPTE3Mjc4NjQ4MTQmdXVpZD04ZThmZTJlN2EwYWQ5NzZlZjBmY2IwODI3YmM2OTZkZi05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPTYyYjZmMzJmYzg3ZGIwYTc0YjhmNjk2MGIyNjJkMWI3JmVzPTE3Mjc4OTM3MTAmdXVpZD1lNGRiYjBkOWJmZjQ4MTEyMTQyZjc0ZDQzMmIxMzVhMy05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPTFkMjlmZmU5MmUwYmI0NjkzN2RlOTJjYjA3NDlhMzY2JmVzPTE3Mjc4NjQyMTYmdXVpZD01NjQ5OTUzOTEzNTVhNDU3NWE0N2EzYzY2YmU0NjQ0Mi05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPWU1ZWM0NWYxY2RjZTcxMTk5YmRkMDVjZDM0M2ViOTNiJmVzPTE3Mjc4OTMwMjcmdXVpZD1kMTBhYTI2NzE2N2EyNmU5Y2U5ZmZiNTQzM2RiYzU3Yy05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZjZG5leF9pZD13c19waG9uZTMmcz1hNjhkODUyZWJmYjlmMDVkZDJlY2E5ZTZiYTg0MzQyZiZ1aWQ9JnV1aWQ9ZWE5NTRiMmUwNGUwOWJhNGFmMjQzYWFlMDc2ODZkZTQtOWE1YjIwZjImdj0yJmFzPTAmZXM9MTcyNzg5Mjg3Nw,,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南台",湖南经视
@@ -142,7 +142,7 @@ http://player.200877926.top/videojs.php?id=https://idclive.hljtv.com:4430/live/h
 #EXTINF:-1 group-title="卫视台" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/3/v1M/index.m3u8
+http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
