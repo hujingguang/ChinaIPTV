@@ -105,24 +105,12 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?
 http://183.196.25.171:808/hls/77/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 纪录
 https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
 http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 4K
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1728611882-1709fce48ce3830dd7e9aed4b1c8e205-0-96f54404c452c791e6e8fac2784bd7c0
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png",海峡卫视
