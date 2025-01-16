@@ -6,7 +6,7 @@ http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2Ru
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
 http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0wODk2ZWRlZGUyZjNiZGFjZWFlODYwZWUyZDE1YWY3MCZ1aWQ9JnV1aWQ9YTQwYzUwNjMwYzYwZDQzNzg0NWJkZjliNWIxMDFmNTYtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczNzAyNDcxNQ,,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南台",湖南经视
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTFkY2Q5NGI3ZmVhYWQyZmUyNjM0MzYwNDcxMTU5M2M1JnVpZD0mdXVpZD1kMWQ4YzdhZGZlMjIyZmQ1MjU3YWRhMDZkMTgyOWQzZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM3MDIxMzE0/HNJSMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTY4YTE3YmM0YzEzYWFmOTdhMTFkN2M2OGQ1ZmU0ZDU2JnVpZD0mdXVpZD0zZjMwZWQ4NWJhNjYwZDJiYjNmNWI0NjkyZTEwYzc5Ny02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM3MDUwMjMw/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
 https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPWJhYWIyMTQ2NTcwNWEzYTM4YTgzZDYwYWUxMDNmNzkzJnVpZD0mdXVpZD02OTQ2Mzg1MGY1YjkxODFlNGFjYWFlNmFkMTY5NjNlMS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM3MDQ2OTQ2/JYJSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
@@ -147,8 +147,6 @@ http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171601.m3u8
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061401.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059701.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060901.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
@@ -161,14 +159,16 @@ http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061501.m3u8
 http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171501.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://stream.snrtv.com/sxbc-star-dlmqEO.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 group-title="卫视台" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=5b74e11a640bc086a7afb972a7d29adc&time=6788d88a
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=de2ad06996ebc8152afcc4a3b4f66d65&time=6788d99c
 #EXTINF:-1 group-title="卫视台" tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
-http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055601.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=8ddb212677d16e52949f9d3f0151831a&txTime=6788D01D
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=a33f8b44370ec084a2e9c2d392213a79&txTime=6788D8F0
 #EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e701a7811737023644
 #EXTINF:-1 group-title="卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
