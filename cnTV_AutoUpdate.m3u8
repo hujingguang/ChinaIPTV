@@ -137,20 +137,20 @@ http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061401.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
 http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059701.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060901.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061301.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
 http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171201.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061501.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171501.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
-http://live.sxrtv.com/iptv/jlws.m3u8
+http://702cae17a28d6e4f0c0002bba021d934.livehwc4.com/live.sxrtv.com/iptv/jlws.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4ff85dd76d0abe9bd99017a72f2778d9
 #EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://live.sxrtv.com/iptv/shxws.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=906bfd595823b08bca9205b5cba5cb04&time=687bd009
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=e5df9453666ce689cf2d39f54d112032&time=687bd126
 #EXTINF:-1 group-title="卫视台" tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
