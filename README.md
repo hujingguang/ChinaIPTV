@@ -6,3 +6,10 @@ VersionLog 文件记录更新的时间线
 
 使用：
 Kodi 或者 VLC 直接配置引用网络文件的方式载入节目列表，文件地址：https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+
+
+如果项目有帮助到您，可以打赏作者几个狗狗币。
+
+Doge Coin Address: DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa
+
+
