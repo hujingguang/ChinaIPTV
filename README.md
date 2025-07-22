@@ -10,6 +10,6 @@ Kodi 或者 VLC 直接配置引用网络文件的方式载入节目列表，文�
 
 如果项目有帮助到您，可以打赏作者几个狗狗币。
 
-Doge Coin Address: DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa
+捐赠狗狗币地址: DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa
 
 [捐赠狗狗币](https://dogechain.info/address/DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa)
