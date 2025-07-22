@@ -12,4 +12,4 @@ Kodi 或者 VLC 直接配置引用网络文件的方式载入节目列表，文�
 
 Doge Coin Address: DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa
 
-
+[Send DogeCoin](https://dogechain.info/address/DJKbmsz8cjNQf3DcXQ3uzGYsrHtifTVWXa)
