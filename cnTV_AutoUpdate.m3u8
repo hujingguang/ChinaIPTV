@@ -105,12 +105,14 @@ http://183.196.25.171:808/hls/77/index.m3u8
 http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1757581825-a911aeacdae1e5264ac46768e8839abb-0-ca7355fef20931688a328806424be4fc
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
 http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
-http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509111602/app_2/_definst_/ls_2.stream/chunklist.m3u8
+http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509111805/app_2/_definst_/ls_2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
