@@ -14,7 +14,7 @@ http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcW
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xODU0NzQzOTk4ZTE3NTk2YzYyZTY2YWVhM2Y0OWU5MCZ1aWQ9JnV1aWQ9ODU2Mjk2NDg4Y2U2NmY0NGZjZWE3YjExYTZkY2Y5MTItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1Nzg2OTI3NA,,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南台",湖南电视剧
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1hNDRhODlmMTY2YTI1OTkwYTY2MGViMDIwMmU4NjgxZCZ1aWQ9JnV1aWQ9NDEwOWEwOWQ1YWMxZmRiZjM1MDExMWFhOGJkMjNjYzItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1Nzg1ODQ0MA,,/HNDSJMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03YWFlYmRmYzRkZWIzNGZmNjFlMDA0Y2JmZDZmNTYxOCZ1aWQ9JnV1aWQ9OWUxNDljZTU0OTBmNGNhNzk2Njg5MmNkYjc2OWFjMTMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1Nzg4NzI1OQ,,/HNDSJMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz05Y2QwYTg2ZGJiOTVmMDYzMmZkZmEyNDA2YzMwODllNiZ1aWQ9JnV1aWQ9YWFjNjRlNjcwMmNlYmRlMzQyYjM0ZDZmYjgxMzJkZTMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1Nzg2OTM4OA,,/CSXWMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
@@ -105,6 +105,8 @@ http://183.196.25.171:808/hls/77/index.m3u8
 http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1757855268-bae9cfb3ce0dc399e7e36217c7565410-0-5f6bada1451df889d761f11f01048016
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
