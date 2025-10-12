@@ -9,6 +9,8 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlk
 http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9ZDcwM2NhNjE1OTc3OGNkYjBmNjJkYTA3NmEwYmFjNTUmdWlkPSZ1dWlkPTczODJhMzZkOTgxNzRiODQ0M2ZjYTkyNDhkM2VjZWExLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjAyNTY4NjE,/HNJSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
 https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04OTdhODljMmQ4MzQ4Yzc1YzBjNmNkZTc1YTNkMjY2MSZ1aWQ9JnV1aWQ9MmM5NjhkZDUyMzdjM2RjOTBhOWY5ZDk1Mzk2YmNmMmMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDI1NjAyNQ,,/JYJSMPP360.m3u8
+#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04MjQ0YzU1NzIwNzY3MjI5YTZkZmViNGEzZThlMmI1MSZ1aWQ9JnV1aWQ9MjNlOGE2MzYyZTMxOTA5NjM4OTljNWZlZGVmMTNkYjUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDI3NDE0Mg,,/JYKTMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04YmY3NTMxNzljYmNmMmIzZGU0YWU5YTY5MmI0MzA0ZiZ1aWQ9JnV1aWQ9ZjlmNDFlZGRmMmMwZjlmZGEwYjdlNGE2N2U4ZjBiMWYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDI3MTgxNw,,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南台",湖南电视剧
@@ -95,6 +97,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760302926-1-pcscbf1235c2df248539db0191dd055b478-00e32ed33288b696768deb272717b424&yid=pcscbf1235c2df248539db0191dd055b478
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 高清
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1760302950-1-pcsfb9600421f684c4bb4bc602e87277ae4-2ec6fd8e2fc13f01af60600484622979&yid=pcsfb9600421f684c4bb4bc602e87277ae4
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
 https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
