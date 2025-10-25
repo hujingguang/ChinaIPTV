@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz05ZmFhNDM3YzgyM2ViODgxZDU0YjRlYjBhNGFkYjI2YiZ1aWQ9JnV1aWQ9NjE3ODQxMzcxNzE2OWEwNzQ0MzExZDg2MGYyNzQ2MzAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTM1MjE4MA,,/HNGGMPP360.m3u8
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmY2hzPSZkZWY9MSZzPTUxNmQ1OTc4ZDdkM2ZlMDdlYjNhNjVmMDYzMjA4YTVlJnVpZD0mdXVpZD1iNDMwNDc3MThmZDMxZDIwZTlkNmRmY2M3M2U3MmU0Yi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzYxMzgyNTA0/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
 http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9MjE5YmMyOGZjMDEzZmJmMmY0ZTk2MGI4OWMxYmRmNzUmdWlkPSZ1dWlkPWMwZjgyYmVkZDlhMWFhOTg5MjQ3NmNkYmY0MmE5MTg2LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjEzNTk1OTk,/HNDSMPP360.m3u8
 #EXTINF:-1 group-title="湖南台" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
@@ -95,8 +95,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育赛事
-https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761404210-1-pcs30be20d9886743469085d435e1808b99-736583c415d8961623fe9284548e74e9&yid=pcs30be20d9886743469085d435e1808b99
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
 https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
@@ -114,7 +114,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1761347101-807af440a6d76018755307db2b7ed76a-0-8d49e73eb26f65eeafcd5b80cb37fa0c
+http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1761350868-b440c1fffd1601af2654b66628be2fd2-0-9f0cbfb7098003c4baa9cbc20f78202c
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
@@ -135,11 +135,7 @@ http://p2.ytelc.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
-https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
 https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://stream.snrtv.com/sxbc-star-guDMR3.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-https://livelyws.chinamcache.com/lyws/zb03.m3u8
