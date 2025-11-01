@@ -97,10 +97,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762051500-1-c2f4b30617e97920cce85be8ab151ca1-b10c32bc7eb183703b0e386c7ad9b07d&yid=c2f4b30617e97920cce85be8ab151ca1
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 高清
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1762051500-1-76f5555ac106aee57cdd1661767a988b-5964f89b56dd5b41ea1724dfa793d762&yid=76f5555ac106aee57cdd1661767a988b
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1762052400-1-dd98c8d03b7bb052565eb2164686748a-228909ec49c613ab71af0ae97b0c5034&yid=dd98c8d03b7bb052565eb2164686748a
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
 http://183.196.25.171:808/hls/77/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
