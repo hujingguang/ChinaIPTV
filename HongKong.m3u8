@@ -23,3 +23,8 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="BSTV.hk" tvg-logo="https://i.imgur.com/GVYSSgm.png" group-title="Shop",BSTV
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠台.HK" tvg-logo=https://share.google/ECLtMiWvpWci1al4z.png group-title= "kênh Hồng Kong",TVB翡翠台
+https://www.mytvsuper.com/en/live/81/Jade/
+#EXTINF:-1 tvg-id= "TVB明珠台.HK" tvg-logo=https://share.google/UNMuc5ePSsUDpSDco.png group-title= "kênh quốc tế", TVB明珠台
+https://www.mytvsuper.com/en/live/84/Pearl/
+
